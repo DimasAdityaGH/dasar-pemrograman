@@ -1,0 +1,14 @@
+algoritma dipemrograman
+
+urutan:
+1.algoritma pemrograman
+2.alur yang logis dan sesuai kebutuhan
+3.output berhasil
+
+urutan yang tidak sesuai:
+1. algoritma pemrograman
+2. urutan yang tidak sesuai atau langkah yang kurang atau tidak tepat
+3. output berbeda
+
+
+secara umum, pihak (benda) yang mengerjakan proses tersebut disebut pemroses (processor)
