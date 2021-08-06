@@ -1,0 +1,26 @@
+flowchart ?
+flowchart merupakan penggambaran secara grafik dari langkah-langkah dan urutan prosedur suatu program. biasanya mempengaruhi penyelesaian
+
+simbol/notasi dasar
+1.flow direction symbols /  simbol penghubung atau alur
+-arus/flow untuk menyatakan jalanya arus atau suatu proses. alt = gambar arah panah
+-comunication link adalah suatu data atau informasi dari suatu lokasi ke lokasi lainya.  alt =  garis zig zag 
+-offline connector sambungan dari suatu proses ke proses lainya dalam halaman atau lembaran yang berbeda. alt = gambar kotak lancip bawah
+-connector sambungan dari suatu proses ke proses lainya dalam halaman atau lembaran yang sama. alt = gambar lingkaran
+
+
+
+2.processing symbols (symbols proses)
+-proses adalah pemrosesan yang dilaksanakan oleh komputer
+-symbol manual tindakan (proses) yang tidak dilakukan komputer (manual)
+-decision logika untuk menunjukan suatu kondisi tertentu
+-predifined process penyediaan tempat penyimpanan suatu pengolahan untuk memberi harga awal
+-terminal permulaan atau akhir suatu program
+-offline storage data dalam symbols ini akan disimpan ke suatu media tertentu
+-manual input  memasukan data secara manual dengan menggunakan online keyword
+
+
+3.input/output Symbols (symbols input dan output)
+-input / output  preses input dan output tanpa tergantung dengan jenis peralatanya
+-disk storage input berasal dari disk atau output disimpan ke disk
+-document untuk menyetak dokumen
